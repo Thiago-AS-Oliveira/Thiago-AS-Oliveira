@@ -1,16 +1,23 @@
-### Hi there 👋
+<div align="center">
+<h1> Olá! Sou Thiago. :grin:</h1>
 
-<!--
-**Thiago-AS-Oliveira/Thiago-AS-Oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor de front-end buscando construir uma carreira sólida.
 
-Here are some ideas to get you started:
+  <a class="link" href="https://www.linkedin.com/in/thiago-as-oliv/" >
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge">
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   <a class="link" href="" >
+     <img src="https://img.shields.io/badge/Portfólio-0077B5?style=for-the-badge" />
+   </a>
+
+<h3>Tecnologias</h3>
+<hr />
+ <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,redux,git,styledcomponents,express,mongodb" />  
+<hr />
+
+
+<img height="180px"  class="card" src="https://github-readme-stats.vercel.app/api?username=Thiago-AS-Oliveira" />
+
+<img height="180px" class="card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-AS-Oliveira&layout=donut" />
+</div>
