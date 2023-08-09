@@ -7,7 +7,7 @@ Desenvolvedor de front-end buscando construir uma carreira sólida.
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge">
   </a>
 
-   <a class="link" href="" >
+   <a class="link" href="https://thiago-as-oliveira.github.io/portfolio/" >
      <img src="https://img.shields.io/badge/Portfólio-0077B5?style=for-the-badge" />
    </a>
 
